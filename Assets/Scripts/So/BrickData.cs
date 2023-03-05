@@ -17,6 +17,7 @@ namespace BrickBreaker.Resources
     public enum BrickType
     {
         Normal,
+        Hard,
         Understory,
         Bomb
     }

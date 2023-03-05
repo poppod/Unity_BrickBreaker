@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: BrickUndrestory
   m_EditorClassIdentifier: 
   sprite: {fileID: 21300000, guid: 66d21d4e25e3d4cbfbaf964b66b0ab43, type: 3}
-  brickType: 1
+  brickType: 2
   scorePoint: 0
   smashTime: 9999

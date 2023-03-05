@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: BrickBomb_red
   m_EditorClassIdentifier: 
   sprite: {fileID: 21300000, guid: fe582b70e71924848854d27e8833e1b8, type: 3}
-  brickType: 2
+  brickType: 3
   scorePoint: 100
   smashTime: 1

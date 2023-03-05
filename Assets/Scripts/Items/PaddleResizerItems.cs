@@ -1,14 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using BrickBreaker.Resources;
+
 namespace BrickBreaker.Core
 {
-    public class BrickGenerator : MonoBehaviour
+    public class PaddleResizerItems : Item
     {
-        // [Header("Resources")]
-        // [SerializeField]
-        
+         public int resizeValue; //Negative is decrees 
         // Start is called before the first frame update
         void Start()
         {
